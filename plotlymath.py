@@ -4,6 +4,7 @@ from random import randrange
 
 import numpy as np
 import plotly.graph_objects
+import plotly.subplots
 rng = np.random.default_rng()
 
 ARROW_STYLES = {
